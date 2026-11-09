@@ -1,2 +1,2 @@
 print("My first python class")
-print("My name is Chelsea")
+# print("My name is Chelsea")
