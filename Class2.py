@@ -4,5 +4,7 @@ name='Chelsea'
 print(name)
 age=16
 print(age)
-favourite_food="pizza"
+favourite_food="pizza  \n"
 print(favourite_food)
+import keyword
+print(keyword.kwlist)
